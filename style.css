@@ -9,7 +9,7 @@
     font-size: 15px;
 }
 
-.Footer{
+#Footer{
     bottom: 0;
     width: 100%;
     position: fixed;
@@ -21,4 +21,10 @@ canvas{
     background-color: rgb(226, 214, 145);
     color: rgb(180, 152, 152);
     border-radius: 30px;
+}
+button{
+    background-color: aqua;
+    color: beige;
+    border-radius: 20px;
+    border-width: 5px;
 }
